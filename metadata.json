@@ -1,0 +1,6 @@
+{
+  "name": "KenyaRent",
+  "description": "Premium Kenyan rental property listing application matching landlords and seekers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
